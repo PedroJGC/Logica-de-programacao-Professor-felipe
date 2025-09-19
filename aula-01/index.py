@@ -7,7 +7,7 @@ profissao = input("Digite a sua profissão: ")
 print(f"Olá {nome}, você tem {idade} anos e trabalha como {profissao}.")
 
 print("")
-print("Questão 2")
+print("Questão 3")
 
 num1 = 12
 num2 = 6
